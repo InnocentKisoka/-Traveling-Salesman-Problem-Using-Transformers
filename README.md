@@ -65,13 +65,8 @@ Greedy Algorithm: Iteratively selects the closest unvisited node.
 Performance is measured using the optimality gap:
 gap
 =
-(Approx
-−
-OPT)/
-OPT
-gap= 
-OPT
-Approx−OPT
+
+gap= (Approx−OPT)/OPT
 ​	
  
 🔎 Analysis
