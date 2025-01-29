@@ -63,8 +63,7 @@ I evaluated the Transformer heuristic by comparing it to two baseline methods:
 Random Tour: Generates a random route.
 Greedy Algorithm: Iteratively selects the closest unvisited node.
 Performance is measured using the optimality gap:
-gap
-=
+
 
 gap= (Approx−OPT)/OPT
 ​	
