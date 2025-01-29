@@ -1,4 +1,4 @@
-# -Traveling-Salesman-Problem-Using-Transformers
+# Traveling Salesman Problem Using Transformers
 
 📌 Project Overview
 
